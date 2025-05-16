@@ -1,4 +1,10 @@
 ## Hi there 👋
+🛠 Language and tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 <!--
 **erdemberaa/erdemberaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
