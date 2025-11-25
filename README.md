@@ -1,3 +1,4 @@
+## Erdem Bera Kaşak Software Developer
 ## Hi there! 👋
 I’m a Computer Programming graduate with beginner-level experience in Python and Django.
 I’m currently improving my backend development skills and working on small projects to strengthen my foundations.
